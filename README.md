@@ -18,9 +18,4 @@ This is a solution to the [Clock app challenge on Frontend Mentor](https://www.f
 
 - Frontend Mentor - [@Eyhab333](https://www.frontendmentor.io/profile/Eyhab333)
 
-## Screenshots
 
-![](./screenshots/screenshot-mobile.png)
-![](./screenshots/screenshot-tablet.png)
-![](./screenshots/screenshot-desktop.png)
-![](./screenshots/screenshot-desktop-details.png)
