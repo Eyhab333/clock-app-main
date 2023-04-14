@@ -4,15 +4,8 @@ This is a solution to the [Clock app challenge on Frontend Mentor](https://www.f
 
 ## Links
 
-- Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/)
 - Live Site URL: [GitHub Pages Site](https://eyhab333.github.io/clock-app-main/)
 
-## Useful resources
-
-- [IP Geolocation API](https://freegeoip.app/)
-- [World Time API](http://worldtimeapi.org/)
-- [Programming Quotes API](https://programming-quotes-api.herokuapp.com/)
-- [Backdrop-filter on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter)
 
 ## Author
 
